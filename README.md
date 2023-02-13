@@ -10,18 +10,18 @@
 ## Installation <a name="installation"></a>
 To run this jupyter notebook make sure you have installed, numpy, pd, sns and matlibplot.
 If you are importing/opening this notebook in Anaconda, please ensure that you have installed these packages in the default anaconda workspace.
-You can do so by opening the Anaconda prompt and then executing the following commands for each package if they are not installed already.
-pip install numpy
-pip install pandas
-pip install seaborn
-pip install matplotlib
+You can do so by opening the Anaconda prompt and then executing the following commands for each package if they are not installed already:
+ * pip install numpy
+ * pip install pandas
+ * pip install seaborn
+ * pip install matplotlib
 
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I was interestested in using Airbnb data from 2021 to help investors get involved with investing with Airbnb.
-There were three primary questions I wanted the data to answer:
-1) What areas made suitable investment areas for Airbnb owners? - this was done by looking at the most areas with the most Airbnb rentals.
+For this project, I was interestested in using Airbnb data from 2021 to help newcomers - like myself - to Airbnb make good investement decisions by answer these three primary questions:
+1) Which areas do Airbnb owners typically target - what areas are those in Seattle? 
+  - this was done by looking at the most areas with the most Airbnb rentals.
 2) What type of properties do Airbnb owners typically purchase?
 3) How much could we charge per area, on average, and what were the drivers for the price?
 
