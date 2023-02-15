@@ -29,7 +29,7 @@ For this project, I was interestested in using Airbnb data from 2021 to help new
 ## File Descriptions <a name="files"></a>
 
 There is one notebook that is used to answer theses questions and 3 supporting files with the data:
-The main notebook is called: airbnb_investment_data.ipynb
+The main notebook is called: airbnb_notebook.ipynb
 
 The data files are:
 listings.csv
